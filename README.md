@@ -1,4 +1,4 @@
-# Transposed-Convolutional-Neural-Networks-
+# Transposed-Convolutional-Neural-Networks
 The goal of a Transposed Convolution is to do the opposite of a regular Convolution, i.e., to upsample the input feature map to a desired larger size output feature map.
 
 To achieve this, Transposed Convolution goes through an iterative process of multiplying entries in the input feature map by the filter and adding them up together. Note that we also move along by the specified number of places (stride) within each step.
